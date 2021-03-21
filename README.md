@@ -1,6 +1,6 @@
 # FarmerNet NFTs 🔬
 
-**＊ ✿ ❀ Dynamic non fungible tokens (NFTs) for land-based carbon emission credit with GPS coordinates  ❀ ✿ ＊**
+✿ ❀ Dynamic non fungible tokens (NFTs) for land-based carbon emission credit with GPS coordinates  ❀ ✿
 
 <div>
   
@@ -29,19 +29,22 @@ Carbon emission information is siloed, non-verified and non-standardized. The go
 ---
 ## Non Fungible Tokens NFTs
 
+Non fungible tokens: Dynamic and changes based on real world data metrics land-based carbon emission NFT on the Rinkeby Chain: 
+
 - ERC721 tokens
 - Metadata provides descriptive information for a tokenId that is stored off-chain 
+  - This will create a land NFT with 4 attributes:
+    1. uint256 longitude coordinate;
+    2. uint256 latitude coordinate;
+    3. uint256 carbon sequestered per land;
+    4. string name of land NFT;
 - Each tokenId has a specific tokenURI that defines this API call, which returns a JSON object that looks something like this
 - Assign tokenIds to their tokenURI, NFT marketplaces will be able to display your token 
 -Image is using a URL that points to  IPFS InterPlanetary File System 
 -Every time the image is updated, the on-chain hash/tokenURI also has to change, meaning that we can have a record of the history of the metadata
 - OpenSea NFT marketplace 
 
-Non fungible tokens: Dynamic and changes based on real world data metrics land-based carbon emission NFT on the Rinkeby Chain: This will create a land NFT with 4 attributes:
-1. uint256 longitude coordinate;
-2. uint256 latitude coordinate;
-3. uint256 carbon sequestered per land;
-4. string name of land NFT;
+
 
 
 ---
