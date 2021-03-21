@@ -1,0 +1,19 @@
+{
+    "name": "land3",
+    "description": "",
+    "image": "https://ipfs.io/ipfs/QmebqM2QmVfyPAH7i4zXzh2HHy2srfW3URqWBE2J2Z1UVJ?filename=farmland3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Longitude",
+            "value": 22
+        },
+        {
+            "trait_type": "Latitude",
+            "value": 16
+        },
+        {
+            "trait_type": "Carbon_emissions",
+            "value": 0
+        }
+    ]
+}
