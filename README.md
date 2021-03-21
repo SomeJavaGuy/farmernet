@@ -7,7 +7,7 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/lucylow/farmernet.svg)](https://github.com/lucylow/farmernet/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/farmernet.svg)](https://github.com/lucylow/farmernet/pulls)
-  [![License](https://img.shields.io/aur/license/android-studio.svg)]()
+  [![License](https://img.shields.io/bower/l/bootstrap)]()
 
 </div>
 
@@ -16,6 +16,8 @@
 ## Problem
 
 Carbon emission information is siloed, non-verified and non-standardized. The goal is to reduce environmental impacts and carbon footprint, and increase progress towards global and corporate carbon emission goals with FARMERNET.
+
+![](https://github.com/lucylow/farmernet/blob/main/farmernet.png)
 
 
 ---
@@ -44,6 +46,7 @@ Non fungible tokens: Dynamic and changes based on real world data metrics land-b
 -Every time the image is updated, the on-chain hash/tokenURI also has to change, meaning that we can have a record of the history of the metadata
 - OpenSea NFT marketplace 
 
+![](https://github.com/lucylow/farmernet/blob/main/Screen%20Shot%202021-03-21%20at%2012.05.14%20PM.png)
 
 
 
@@ -56,6 +59,7 @@ Non fungible tokens: Dynamic and changes based on real world data metrics land-b
 - Store images in peer-to-peer file storage system IPFS and pin the data with Pinata for when IPFS node is down
 - Deployed dynamic NFT to the OpenSea marketplace - Allows users to smoothly buy and sell NFTs, get custom stats and analytics, and earn revenue when items get traded.
 
+![](https://github.com/lucylow/farmernet/blob/main/Screen%20Shot%202021-03-21%20at%2012.04.58%20PM.png)
 
 
 ---
